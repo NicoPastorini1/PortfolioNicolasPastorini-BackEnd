@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.portfoliosNicolas.portfoliosNicolas.Security.MainSecurityTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.011 s <<< FAILURE! - in com.portfoliosNicolas.portfoliosNicolas.Security.MainSecurityTest
+testSomeMethod  Time elapsed: 0.005 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at com.portfoliosNicolas.portfoliosNicolas.Security.MainSecurityTest.testSomeMethod(MainSecurityTest.java:42)
+

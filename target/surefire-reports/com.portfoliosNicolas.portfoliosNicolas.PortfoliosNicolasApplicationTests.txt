@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.portfoliosNicolas.portfoliosNicolas.PortfoliosNicolasApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.256 s - in com.portfoliosNicolas.portfoliosNicolas.PortfoliosNicolasApplicationTests
